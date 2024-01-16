@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Yan-Ting!
 
-- 🌱 I’m currently learning AI/ML
+About me:
+- 🌱 I’m currently learning Reinforcement Learning / Generative AI with LLM
+- 💬 Ask me about **Machine Learning**, **3GPP Modem Protocol Spec** and **L3/L4 Wireless Protocol Stack**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yan-ting-chen/) / [Email](mailto:yantingchn@gmail.com)
 
 <!--
