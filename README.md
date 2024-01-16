@@ -2,7 +2,8 @@
 
 About me:
 - 🌱 I’m currently learning Reinforcement Learning / Generative AI with LLM
-- 💬 Ask me about **Machine Learning**, **3GPP Modem Protocol Spec** and **L3/L4 Wireless Protocol Stack**
+- 💬 Ask me about _Machine Learning_, _3GPP Modem Protocol Spec_ and _L3/L4 Wireless Protocol Stack_
+- 🤔 I’m currently open for: **_A new job opportunity_**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yan-ting-chen/) / [Email](mailto:yantingchn@gmail.com)
 
 <!--
