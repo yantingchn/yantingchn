@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Yan-Ting! 
+
+<!--
 ##### A Data Science and Machine Learning MSc student at University College London 👨‍🎓
+-->
 
 - 🌱 I’m currently learning Reinforcement Learning / Generative AI with LLM
 - 💬 Ask me about _Machine Learning_, _3GPP Modem Protocol Spec_ and _L3/L4 Wireless Protocol Stack_
