@@ -3,10 +3,11 @@
 <!--
 ##### A Data Science and Machine Learning MSc student at University College London 👨‍🎓
 -->
+##### A Data Scientist / Machine Learning Engineer in London
 
+- 🔭 I’m currently working as **_Data Scientist_** in financial sector
 - 🌱 I’m currently learning Reinforcement Learning / Generative AI with LLM
 - 💬 Ask me about _Machine Learning_, _3GPP Modem Protocol Spec_ and _L3/L4 Wireless Protocol Stack_
-- 🤔 I’m currently open for: **_A new job opportunity_**
 - 📫 How to reach me:&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-ting-chen/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yantingchn@gmail.com)
 
